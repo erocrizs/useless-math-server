@@ -1,5 +1,14 @@
 # Useless Math Server
 
+## Usage
+Run
+```sh
+npm install
+npm start
+```
+
+## Endpoints
+
 ### GET /add/`float_a`/`float_b`
 Returns the sum of `float_a` and `float_b`
 
