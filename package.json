@@ -1,0 +1,22 @@
+{
+  "name": "useless-math-server",
+  "version": "1.0.0",
+  "description": "Server for running basic native arithmetic operation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erocrizs/useless-math-server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erocrizs/useless-math-server/issues"
+  },
+  "homepage": "https://github.com/erocrizs/useless-math-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
