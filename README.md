@@ -1,11 +1,17 @@
 # Useless Math Server
 
 ## Usage
-Run
+Install Dependencies.
 ```sh
 npm install
+```
+
+Run the server.
+```sh
 npm start
 ```
+
+Go to http://localhost:3000 to make sure it is running correctly.
 
 ## Endpoints
 
